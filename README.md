@@ -8,10 +8,13 @@ You can click the Preview link to take a look at your changes.
 👋 Hi, I'm Kevin Henry
 ============================
 
+Developer, Mentor & Athlete
+-----------------------------
+
 - 🌍  I'm based in Seattle, Washington
 - 👀 I’m interested in Python development, Data Science, and more.
-- 🌱 I’m currently working on an app calling to the Destiny API.
-- 💞️ I’m looking to collaborate on ...
+- 🚀 I’m currently working on an app calling to the Destiny API.
+- 💞️ I’m looking to collaborate on interesting projects that help folks.
 - ✉️  You can reach me at [kevinhenry@live.com](mailto:kevinhenry@live.com)
 
 ### Skills
