@@ -64,8 +64,8 @@ eval "$(op signin)"
 # git config
 echo "Setting up git"
 
-git config --global user.name "Mark R. Florkowski"
-git config --global user.email "mark.florkowski@gmail.com"
+git config --global user.name "Kevin Henry"
+git config --global user.email "kevinhenry@mac.com"
 git config --global core.editor "code --wait"
 git config --global push.default upstream
 
@@ -104,8 +104,10 @@ esac
 # add karabiner mappings
 echo "Getting karabiner configs"
 mkdir -p ~/.config/karabiner/
-curl -# https://gist.githubusercontent.com/markflorkowski/bc393361c0222f19ec3131b5686ed080/raw/62aec7067011cdf5e90cf54f252cbfb5a1e49de0/karabiner.json -o ~/.config/karabiner/karabiner.json
-curl -# https://gist.githubusercontent.com/markflorkowski/3774bbbfeccd539c4343058e0740367c/raw/7c6e711a9516f83ff48c99e43eef9ca13fb05246/1643178345.json -o ~/.config/karabiner/assets/complex_modifications/1643178345.json
+curl -# https://gist.githubusercontent.com/kevinhenry/
+curl -# https://gist.githubusercontent.com/kevinhenry/
+# curl -# https://gist.githubusercontent.com/markflorkowski/bc393361c0222f19ec3131b5686ed080/raw/62aec7067011cdf5e90cf54f252cbfb5a1e49de0/karabiner.json -o ~/.config/karabiner/karabiner.json
+# curl -# https://gist.githubusercontent.com/markflorkowski/3774bbbfeccd539c4343058e0740367c/raw/7c6e711a9516f83ff48c99e43eef9ca13fb05246/1643178345.json -o ~/.config/karabiner/assets/complex_modifications/1643178345.json
 
 # configure rectangle pro to use icloud sync and launch on login
 echo "Updating RectanglePro config"
